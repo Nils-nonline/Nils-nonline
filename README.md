@@ -1,6 +1,6 @@
 <h1>👋 Hi, I’m @Nils-nonline</h1>
 - 👀 I’m interested in programming websites, node.js, and python<br>
-- feel free to visit the website of the orgnisation I am part of: www.neverstudio.de
+- feel free to visit the website of the organisation I am part of: www.neverstudio.de
 
 
 <!---
