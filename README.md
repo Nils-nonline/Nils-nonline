@@ -1,6 +1,17 @@
-<h1>👋 Hi, I’m @Nils-nonline</h1>
-- 👀 I’m interested in programming websites, node.js, and python<br>
-- feel free to visit the website of the organisation I am part of: www.neverstudio.de
+<h1>Hi, I’m @Nils-nonline</h1>
+
+I’m programming with HTML/CSS/JS.
+I am also quite good at coding in python.
+
+I am generally capable of but do not use as frequently:
+Java and C++/Arduino.
+
+My Interests:
+  - Maths
+  - AI (especially GPTs and how they work)
+  - IT
+
+- Feel free to visit the website of the organisation I am part of and check out the projects I am a part of: www.neverstudio.de
 
 
 <!---
