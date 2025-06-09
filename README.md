@@ -11,7 +11,7 @@ My Interests:
   - AI (especially GPTs and how they work)
   - IT
 
-- Feel free to visit the website of the organisation I am part of and check out the projects I am a part of: www.neverstudio.de
+Feel free to visit the website of the organisation I am part of and check out the projects I am a part of: www.neverstudio.de
 
 
 <!---
