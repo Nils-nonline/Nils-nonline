@@ -3,7 +3,7 @@
 I’m programming with HTML/CSS/JS.
 I am also quite good at coding in python.
 
-I am generally capable of but do not use as frequently:
+I am also generally capable of but am not using as frequently:
 Java and C++/Arduino.
 
 My Interests:
