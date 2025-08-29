@@ -8,7 +8,7 @@ Java and C++/Arduino.
 
 My Interests:
   - Maths
-  - AI (especially GPTs, AI-Agents and Stable Diffusion and how they work)
+  - AI (especially GPTs, AI-Agents and Stable Diffusion; Reasoning LLMs and how they work as well as related technologies such as RAG)
   - IT in general
 
 Feel free to visit the website of the organisation I am part of and check out the projects I was involved in: www.neverstudio.de
