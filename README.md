@@ -13,6 +13,8 @@ My Interests:
 
 Feel free to visit the website of the organisation I am part of and check out the projects I was involved in: www.neverstudio.de
 
+I have also taken part in multiple hackathons from Hack To The Future. You can see  the projects we built on my profile.
+
 
 <!---
 Nils-nonline/Nils-nonline is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
