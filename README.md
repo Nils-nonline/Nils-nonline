@@ -8,8 +8,8 @@ Java and C++/Arduino.
 
 My Interests:
   - Maths
-  - AI (especially GPTs and how they work)
-  - IT
+  - AI (especially GPTs, AI-Agents and Stable Diffusion and how they work)
+  - IT in general
 
 Feel free to visit the website of the organisation I am part of and check out the projects I was involved in: www.neverstudio.de
 
